@@ -7,3 +7,5 @@ Diese Webseite ist für Interessenten von  historische Flugzeuge wie beispielswe
 * Entwicklung
 * Konstruktion
 * Verbleib
+
+> Der Weg ist das Ziel!
